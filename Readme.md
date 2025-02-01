@@ -165,6 +165,13 @@ node -v
 
 To confirm that you have npm installed you can run this command in your terminal:
 
+<img src="src/assets/Screenshot/sc1.png" alt="Alt text" width="400"/>
+
+<img src="src/assets/Screenshot/sc2.png" alt="Alt text" width="400"/>
+
+<img src="src/assets/Screenshot/sc3.png" alt="Alt text" width="400"/>
+
+
 
 ```
 npm -v
