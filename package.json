@@ -46,7 +46,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://daisycoder345.github.io/Food-Delivery-application",
+  "homepage": "https://daisycoder345.github.io/full-stack-task-management-app",
   "devDependencies": {
     "gh-pages": "^6.3.0",
     "nodemon": "^3.1.9"
@@ -54,13 +54,13 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/daisycoder345/Food-Delivery-application.git"
+    "url": "git+https://github.com/daisycoder345/full-stack-task-management-app.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/daisycoder345/Food-Delivery-application/issues"
+    "url": "https://github.com/daisycoder345/full-stack-task-management-app/issues"
   },
   "description": ""
 }

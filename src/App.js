@@ -4,7 +4,7 @@ import Home from "./pages/Home/Home"; // Importing the Home component
 
 function App() {
   return (
-    <Router basename="/Food-Delivery-application"> {/* Base URL for GitHub Pages */}
+    <Router basename="/full-stack-task-management-app"> {/* Base URL for GitHub Pages */}
       <Routes>
         <Route path="/" element={<Home />} />
         {/* You can add more routes here as needed */}
