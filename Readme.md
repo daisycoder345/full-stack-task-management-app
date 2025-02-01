@@ -1,4 +1,4 @@
-<h1 align="center">Burger Website</h1>
+<h1 align="center"> Food Delivery - Burger Website (Frontend)</h1>
 
 <h3 align="center">It's a React.js E-commerce web application with all the major functionalities</h3>
 
