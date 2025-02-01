@@ -1,3 +1,4 @@
+
 <h1 align="center">Nike Clone</h1>
 
 <h3 align="center">It's a MERN Stack E-commerce web application with all the major functionalities</h3>
@@ -241,9 +242,3 @@ If you want to contact me, you can reach me through below handles.
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-### 🎉 Thank you for checking out the Food Delivery App! 🚀
-
----
-
-Feel free to adjust any part of this to suit the specifics of your application, especially the installation steps or features!
