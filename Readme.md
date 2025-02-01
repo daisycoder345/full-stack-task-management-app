@@ -19,12 +19,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </p>
 
-<img src="src/assets/Screenshot/sc1.png" alt="Alt text" width="1000"/>
-
-<img src="src/assets/Screenshot/sc2.png" alt="Alt text" width="1000"/>
-
-<img src="src/assets/Screenshot/sc3.png" alt="Alt text" width="1000"/>
-
 
 
 
@@ -37,7 +31,7 @@
 </p>
 
 
-<h4 align="center">Deployed On:</h4>
+
 
 
 
@@ -52,39 +46,33 @@
 </p>
 
 
-Nike Clone is MERN Stack e-commerce web application that allows you to buy shoes & clothes online with payment gateway integration. It has a variety of categories, just visit the product listing page and you will see all the products, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
+Food-Delivery Application is React.js e-commerce web application that allows you to order online food  It has a variety of types of food , just visit the menu page and you will see all the food items, apply filters as per your need and in just a few clicks you can buy any products from the website. This project is just for educational purpose.
 
-<div style="background-image: url('src/assets/Screenshot/sc3.png'); background-size: cover; background-position: center; width: 100%; height: 400px;">
-</div>
+<img src="src/assets/Screenshot/sc1.png" alt="Alt text" width="1000"/>
+
+<img src="src/assets/Screenshot/sc2.png" alt="Alt text" width="1000"/>
+
+<img src="src/assets/Screenshot/sc3.png" alt="Alt text" width="1000"/>
 
 
 
-![cover](https://github.com/ECommerce-Zone/Nike-Clone/blob/main/Images/nike_UI.png)
+
+
 
 
 <br />
 
 ## Screens ( All screens are responsive along with Dark Mode)
 - Homepage / Landing Page
-- Product Listing Page with Filters
-- Product Description Page
-- Cart Management Page
-- Wishlist/Favourites Management Page
-- Checkout with Address Management Page
-- Login / Logout Page
-- Signup Page
-- Order Summary Page
+- Food Menu Page
+- Here you can download throught PlayStore
 
 
 <br />
 
 
 ## 🚀 Features
-- Login and Signup User Account
-- JWT (Json Web Token) Authentication and BcryptJS Password Hashing 
-- Product Filters Based on Price, Category, Size, Color and Gender
-- Product Sorting Based on Price, Rating and Name
-- Product Filtering and Sorting works together 
+-
 - My Orders Section for details of all ordered item
 - Wishlist Add and Remove Items
 - Cart Add and Remove Items 
@@ -98,24 +86,7 @@ Nike Clone is MERN Stack e-commerce web application that allows you to buy shoes
 <br />
 
 
-## Test Coupon Codes
-```
-NIKE5 (for 5% Off)
 
-NIKE10 (for 10% Off)
-
-NIKE15 (for 15% Off)
-
-NIKE20 (for 15% Off)
-
-NIKE25 (for 25% Off)
-
-NIKE30 (for 30% Off)
-```
-
-## Razorpay test payment Cards
-
-[Click here to use the razorpay testing payment methods](https://razorpay.com/docs/payments/payments/test-card-upi-details/)
 
 
 <br />
@@ -123,7 +94,7 @@ NIKE30 (for 30% Off)
 
 ## Getting Started
 
-This project was built using React, Redux, Chakra UI, HTML, CSS, JavaScript, Rest API, Node JS, Express and MongoDB with JWT and RazorPay integration. It is an e-commerce web application and for running on your local environment you should follow these guidelines.
+This project was built using React, Redux,  HTML, CSS, JavaScript, Rest API,and RazorPay integration. It is an e-commerce web application and for running on your local environment you should follow these guidelines.
 
 
 ### Prerequisites
@@ -135,20 +106,15 @@ This project was built using React, Redux, Chakra UI, HTML, CSS, JavaScript, Res
 ### Setup
 
 
-The project repository can be found in [GitHub link](https://github.com/ECommerce-Zone/Nike-Clone) or just clone the project using this command.
+The project repository can be found in [GitHub link](https://github.com/daisycoder345/full-stack-task-management-app) or just clone the project using this command.
 
 
 ```
 Using HTTPS
 
-# git clone https://github.com/ECommerce-Zone//Nike-Clone.git
+# git clone https://github.com/daisycoder345/full-stack-task-management-app
 ```
 
-+ Open terminal on your workspace with
-
-```
-cd /home/workspace/Nike-Clone
-```
 
 
 ## Install
@@ -201,18 +167,6 @@ To run the application got to the client folder and run the following command:
 npm start
 ```
 
-### Environment Variables
-
-To run this project, you will need to add the following environment variables to your .env file in server folder
-
-`JWT_ACCESS_KEY`
-
-`MONGO_PATH`
-
-`RAZORPAY_KEY_ID`
-
-`RAZORPAY_KEY_SECRET`
-
 
 
 ### Tools used on this project
@@ -223,17 +177,6 @@ To run this project, you will need to add the following environment variables to
 - Razorpay Dashboard to monitor payments
 
 <br />
-
-
-
-## Contact
-
-If you want to contact me, you can reach me through below handles.
-
-[![linkedin](https://img.shields.io/badge/Cheshta_Handa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-ashok-s-a510b9b9/)
-[![Twitter](https://img.shields.io/badge/Cheshta_Handa-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/amit-ashok-swain/)
-
-© 2023 Cheshta Handa
 
 
 
