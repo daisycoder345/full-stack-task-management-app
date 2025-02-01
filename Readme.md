@@ -19,11 +19,11 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </p>
 
-<img src="src/assets/Screenshot/sc1.png" alt="Alt text" width="400"/>
+<img src="src/assets/Screenshot/sc1.png" alt="Alt text" width="800"/>
 
-<img src="src/assets/Screenshot/sc2.png" alt="Alt text" width="400"/>
+<img src="src/assets/Screenshot/sc2.png" alt="Alt text" width="800"/>
 
-<img src="src/assets/Screenshot/sc3.png" alt="Alt text" width="400"/>
+<img src="src/assets/Screenshot/sc3.png" alt="Alt text" width="800"/>
 
 
 
