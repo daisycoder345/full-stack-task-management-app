@@ -6,7 +6,6 @@
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
     "cra-template": "1.2.0",
-    "gh-pages": "^6.3.0",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.9",
     "react-dom": "^19.0.0",
@@ -39,5 +38,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://github.com/daisycoder345/Food-Delivery-app"
+  "homepage": "https://github.com/daisycoder345/Food-Delivery-app",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
 }
