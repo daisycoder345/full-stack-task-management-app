@@ -1,6 +1,6 @@
-<h1 align="center">Nike Clone</h1>
+<h1 align="center">Burger Website</h1>
 
-<h3 align="center">It's a MERN Stack E-commerce web application with all the major functionalities</h3>
+<h3 align="center">It's a React.js E-commerce web application with all the major functionalities</h3>
 
 <br />
 
@@ -19,15 +19,15 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </p>
 
+<img src="src/assets/Screenshot/sc1.png" alt="Alt text" width="400"/>
 
-<h4 align="center">Backend:</h4>
+<img src="src/assets/Screenshot/sc2.png" alt="Alt text" width="400"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JsonWebToken" />
-</p>
+<img src="src/assets/Screenshot/sc3.png" alt="Alt text" width="400"/>
+
+
+
+
 
 
 <h4 align="center">Payment Gateway:</h4>
@@ -39,10 +39,7 @@
 
 <h4 align="center">Deployed On:</h4>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="vercel" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="heroku" />
-</p>
+
 
 
 
@@ -165,13 +162,6 @@ node -v
 
 To confirm that you have npm installed you can run this command in your terminal:
 
-<img src="src/assets/Screenshot/sc1.png" alt="Alt text" width="800"/>
-
-<img src="src/assets/Screenshot/sc2.png" alt="Alt text" width="800"/>
-
-<img src="src/assets/Screenshot/sc3.png" alt="Alt text" width="800"/>
-
-
 
 ```
 npm -v
@@ -236,8 +226,8 @@ To run this project, you will need to add the following environment variables to
 
 If you want to contact me, you can reach me through below handles.
 
-[![linkedin](https://img.shields.io/badge/Amit_Ashok_Swain-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-ashok-s-a510b9b9/)
-[![Twitter](https://img.shields.io/badge/Amit_Ashk_Swain-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/amit-ashok-swain/)
+[![linkedin](https://img.shields.io/badge/Cheshta_Handa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amit-ashok-s-a510b9b9/)
+[![Twitter](https://img.shields.io/badge/Cheshta_Handa-20232A?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/amit-ashok-swain/)
 
 © 2023 Cheshta Handa
 
