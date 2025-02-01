@@ -17,9 +17,10 @@ Welcome to the **Food Delivery App**! Our app makes it easy for users to explore
 - **User-friendly interface**: A clean, easy-to-use interface for an awesome experience.
 
 ## 📸 Screenshots
+![Food Delivery App Screenshot 1](./assets/screenshots/SC1.png)
+![Food Delivery App Screenshot 2](./assets/screenshots/SC2.png)
+![Food Delivery App Screenshot 3](./assets/screenshots/SC3.png)
 
-![Food Delivery App Screenshot 1](./assets/screenshot1.png)
-![Food Delivery App Screenshot 2](./assets/screenshot2.png)
 
 ## 💻 Tech Stack
 
